@@ -1,0 +1,19 @@
+ [
+      {
+        "icon": "IoIosContact",
+        "title": "Contact Us",
+        "details": "123 Beast Street, Gujarat, India"
+      },
+      {
+        "icon": "IoCallOutline",
+        "title": "Call Us",
+        "details": "+91 95108 17380 (Available 24/7)"
+      },
+      {
+        "icon": "CiMail",
+        "title": "Mail Us",
+        "details": "support@beasttravel.com (Response within 24 hours)"
+      }
+    ]
+
+  

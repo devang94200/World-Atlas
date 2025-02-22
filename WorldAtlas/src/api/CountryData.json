@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": 125800000,
+      "facts": "Japan is known for its technological advancements, cherry blossoms, and unique cultural traditions.",
+      "popular-dishes": ["Sushi", "Ramen", "Tempura", "Okonomiyaki"],
+      "religious": ["Shinto", "Buddhism"],
+      "languages": ["Japanese"]
+    },
+    {
+      "id": 2,
+      "countryName": "France",
+      "capital": "Paris",
+      "population": 67060000,
+      "facts": "France is famous for its wine, cheese, fashion, and being the most visited country in the world.",
+      "popular-dishes": ["Baguette", "Croissant", "Coq au Vin", "Ratatouille"],
+      "religious": ["Christianity", "Islam", "Judaism"],
+      "languages": ["French"]
+    },
+    {
+      "id": 3,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": 1400000000,
+      "facts": "India is known for its diverse culture, spices, Bollywood, and historical monuments like the Taj Mahal.",
+      "popular-dishes": ["Biryani", "Dosa", "Butter Chicken", "Paneer Tikka"],
+      "religious": ["Hinduism", "Islam", "Christianity", "Sikhism", "Buddhism", "Jainism"],
+      "languages": ["Hindi", "English", "Bengali", "Tamil", "Telugu", "Marathi"]
+    },
+    {
+      "id": 4,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": 215000000,
+      "facts": "Brazil is the largest country in South America and is famous for the Amazon rainforest and football.",
+      "popular-dishes": ["Feijoada", "Pão de Queijo", "Brigadeiro", "Acarajé"],
+      "religious": ["Christianity", "Spiritism"],
+      "languages": ["Portuguese"]
+    },
+    {
+      "id": 5,
+      "countryName": "United States",
+      "capital": "Washington, D.C.",
+      "population": 332000000,
+      "facts": "The USA is known for its cultural influence, Hollywood, Silicon Valley, and diverse landscapes.",
+      "popular-dishes": ["Burgers", "Hot Dogs", "Apple Pie", "Buffalo Wings"],
+      "religious": ["Christianity", "Judaism", "Islam", "Hinduism"],
+      "languages": ["English", "Spanish"]
+    },
+    {
+      "id": 6,
+      "countryName": "Italy",
+      "capital": "Rome",
+      "population": 59000000,
+      "facts": "Italy is famous for its ancient history, the Colosseum, art, and world-renowned cuisine.",
+      "popular-dishes": ["Pizza", "Pasta Carbonara", "Lasagna", "Risotto"],
+      "religious": ["Christianity"],
+      "languages": ["Italian"]
+    },
+    {
+      "id": 7,
+      "countryName": "China",
+      "capital": "Beijing",
+      "population": 1412000000,
+      "facts": "China is the world's most populous country and home to the Great Wall and ancient traditions.",
+      "popular-dishes": ["Peking Duck", "Dumplings", "Kung Pao Chicken", "Hot Pot"],
+      "religious": ["Buddhism", "Taoism", "Islam", "Christianity"],
+      "languages": ["Mandarin Chinese"]
+    },
+    {
+      "id": 8,
+      "countryName": "Mexico",
+      "capital": "Mexico City",
+      "population": 128000000,
+      "facts": "Mexico is known for its rich history, Mayan pyramids, and delicious street food.",
+      "popular-dishes": ["Tacos", "Tamales", "Guacamole", "Chiles Rellenos"],
+      "religious": ["Christianity"],
+      "languages": ["Spanish"]
+    },
+    {
+      "id": 9,
+      "countryName": "Germany",
+      "capital": "Berlin",
+      "population": 83000000,
+      "facts": "Germany is famous for its engineering, Oktoberfest, and historical landmarks.",
+      "popular-dishes": ["Bratwurst", "Schnitzel", "Pretzels", "Sauerkraut"],
+      "religious": ["Christianity", "Islam"],
+      "languages": ["German"]
+    }
+  ]
+  
